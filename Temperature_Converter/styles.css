@@ -11,14 +11,14 @@ body {
 
 .container {
     text-align: center;
-    background-color: #333;
+    background-color: #aa153b;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
 
 h2 {
-    color: #2879d0;
+    color: #1d4775;
 }
 
 .input-group {
